@@ -1,14 +1,16 @@
 # -cp-master-finder version 1.0
 
-information gathering tool
+informations gathering tool
+
+controle panel finder 
 
 ############################################################################################################################
 
 # Description 
  
-this tool allow to gather information, about website and exploiting some information extracted by SQL injection.
+this tool allow to gather some  information, about website and exploiting some informations extracted by SQL injection or else.
 
-this tool you allow extact : IP Adress, open ports, URL of the controle panel and some information which is in the Robots file.
+this tool you allow to extact : IP Adress, open ports,do a quick scan, URL of the controle panel and some information which is in the Robots file.
 
 ############################################################################################################################
 
