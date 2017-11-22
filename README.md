@@ -16,7 +16,7 @@ this tool you allow to extact : IP Adress, open ports,do a quick scan, URL of th
 
 # Requirement 
 
-Kali lunix 
+Kali linux 
 
 Python3 and library : 
 
